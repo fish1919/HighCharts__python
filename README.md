@@ -30,5 +30,5 @@ python web_bottle.py
 
 
 ****************************************************
-Project Page: http://www.forum-raspberrypi.de/Thread-python-python-mysql-webserver-veranschaulichung-mit-graphen?pid=248721#pid248721
+Project Thread: http://www.forum-raspberrypi.de/Thread-python-python-mysql-webserver-veranschaulichung-mit-graphen?pid=248721#pid248721
 
