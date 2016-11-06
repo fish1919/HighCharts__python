@@ -27,6 +27,9 @@ Run web_bottle.py and surf to your Server's IP...
 python web_bottle.py
 ```
 
+See also the Main Project: https://github.com/meigrafd/HighCharts
 
+
+****************************************************
 Project Page: http://www.forum-raspberrypi.de/Thread-python-python-mysql-webserver-veranschaulichung-mit-graphen?pid=248721#pid248721
 
