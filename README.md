@@ -1,6 +1,3 @@
-Highcharts Sensors
-****************************************************
-
 Using Python Bottle with MySQL and HighCharts to display Sensor Data
 
 See also the Main Project: https://github.com/meigrafd/HighCharts
