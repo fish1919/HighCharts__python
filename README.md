@@ -3,6 +3,9 @@ Highcharts Sensors
 
 Using Python Bottle with MySQL and HighCharts to display Sensor Data
 
+See also the Main Project: https://github.com/meigrafd/HighCharts
+****************************************************
+
 
 Installation:
 --------
@@ -27,7 +30,6 @@ Run web_bottle.py and surf to your Server's IP...
 python web_bottle.py
 ```
 
-See also the Main Project: https://github.com/meigrafd/HighCharts
 
 
 ****************************************************
